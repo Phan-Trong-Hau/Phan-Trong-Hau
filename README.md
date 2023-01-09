@@ -8,7 +8,7 @@
 <p>I love solving problem with code and the idea that computer never lies, it will do whatever you tell it to do, unless you are telling them wrong!</p>
 <p>&nbsp;</p>
 
-<img align="right" width='400' src="https://i.pinimg.com/originals/a4/51/39/a451393c169a91586312551109361064.gif" alt="coding-gif" />
+<img align="right" width='300' src="https://i.pinimg.com/originals/a4/51/39/a451393c169a91586312551109361064.gif" alt="coding-gif" />
 
 - 🔭 I’m currently working on [Mysheo](https://github.com/mysheo)
 
