@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Hậu</h1>
-<h3 align="center">A 2nd year student majoring in software engineering from Vietnam.</h3>
+<h3 align="center">A 3nd year student majoring in software engineering from Vietnam.</h3>
 
 <p>I was fortunate to have early exposure to technology and I've always been curious about it. I was very happy when I passed my favorite major.  I learned hard with my ability to self-study to acquire certain skills in the field of website development.</p>
 
