@@ -1,16 +1,16 @@
-<h1 align="center">Hi there 👋, I'm Hậu</h1>
-<h3 align="center">A 3nd year student majoring in software engineering from Vietnam.</h3>
+<h1 align="center">Hi there 👋, I'm Hậu (Ryan)</h1>
+<h3 align="center">A 4nd year student majoring in software engineering from Vietnam.</h3>
 
-<p>I was fortunate to have early exposure to technology and I've always been curious about it. I was very happy when I passed my favorite major.  I learned hard with my ability to self-study to acquire certain skills in the field of website development.</p>
+<p>I was fortunate to have early exposure to technology and I've always been curious about it. I was very happy when I passed my favorite major.  I learned hard with my ability to self-study to acquire certain skills in website development.</p>
 
-<p>As a Website developer. I have knowledge in HTML, CSS, Javascript, Node.Js, MongoDB, and React. I aspire to help bring creative projects to life and demonstrate my commitment to developing world-class software solutions or just to solve my lover's problem.</p>
+<p>As a Website developer. I know HTML, CSS, Javascript, Node.Js, MongoDB, and React. I aspire to help bring creative projects to life and demonstrate my commitment to developing world-class software solutions or solving my lover's problems.</p>
 
-<p>I love solving problem with code and the idea that computer never lies, it will do whatever you tell it to do, unless you are telling them wrong!</p>
+<p>I love solving problems with code and the idea that computer never lies, it will do whatever you tell it to do, unless you are telling them wrong!</p>
 <p>&nbsp;</p>
 
 <img align="right" width='300' src="https://i.pinimg.com/originals/a4/51/39/a451393c169a91586312551109361064.gif" alt="coding-gif" />
 
-- 🔭 I’m currently working on [Mysheo](https://github.com/mysheo)
+- 🔭 I’m currently working on [Filum.ai](https://github.com/Filum-AI)
 
 - 💬 Ask me about **Javascript, React.js, Node.js**
 
